@@ -103,4 +103,11 @@ This repository documents the **system design, simulation validation, and risk-r
 ## 🚀 Next Steps
 - Train AI-native receiver models using digital-twin-generated datasets  
 - Integrate both receivers into a hardware testbed  
-- Compare performance under interference, mobility, and multipath conditions  
+- Compare performance under interference, mobility, and multipath conditions
+
+## Additional Documentation
+Detailed notes and design decisions are available below:
+- [Digital Twin Modeling](docs/modeling.md)
+- [Evaluation Metrics](docs/metrics.md)
+- [Signal Processing Background](docs/signal_processing.md)
+- [Ray Tracing Experiments](docs/experiments.md)
