@@ -13,7 +13,7 @@ Instead of relying on simplified wireless channel models, we use **physics-based
 ---
 
 ## 🧠 System Overview
-![System Overview](figures/system_overview.png)
+![System Overview](figures/systemblockdiagram.png)
 
 The system is organized as a three-phase pipeline:
 1. **Digital twin generation and channel simulation**
@@ -45,7 +45,7 @@ The system is designed as an end-to-end evaluation framework that includes:
 ---
 
 ## 🏗️ Digital Twin Environment
-![Digital Twin Buildings](figures/digital_twin_buildings.png)
+![Digital Twin Buildings](figures/digitaltwin.png)
 
 Campus geometry is imported from OpenStreetMap and LiDAR-derived data to construct a realistic 3D environment.  
 This digital twin is used to generate ray-traced channel profiles that capture building-induced blockage, reflections, and multipath effects.
