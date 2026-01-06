@@ -1,7 +1,7 @@
 # AI-Native 5G Base Station Receiver Trained with a Digital Twin
 
-🎓 Senior Design / Honors Project — UT Austin  
-👨‍🏫 Advisor: Prof. Kaushik Chowdhury  
+Honors Research Project — UT Austin  
+Faculty Advisor: Prof. Kaushik Chowdhury  
 
 ---
 
