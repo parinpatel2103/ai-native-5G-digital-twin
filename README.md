@@ -66,7 +66,7 @@ This digital twin is used to generate ray-traced channel profiles that capture b
 - Defined evaluation metrics such as **BER**, **BLER**, and **throughput** based on 3GPP standards
 
 ### AI-Native Receiver Design
-- Designed an ML-based receiver intended to replace components of the classical decoding pipeline
+- Designed an ML-based receiver intended to replace selected components of the classical 5G receiver chain (e.g., channel estimation or equalization), trained on digital-twin-generated channel data
 - Defined training workflows using digital-twin-generated channel datasets
 - Planned integration with **Keysight Propsim** and **OpenAirInterface** for testbed evaluation
 
