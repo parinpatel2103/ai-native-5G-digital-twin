@@ -1,4 +1,4 @@
-# 🤖 AI-Native 5G Base Station Receiver Trained with a Digital Twin
+# AI-Native 5G Base Station Receiver Trained with a Digital Twin
 
 🎓 Senior Design / Honors Project — UT Austin  
 👨‍🏫 Advisor: Prof. Kaushik Chowdhury  
@@ -54,17 +54,17 @@ This digital twin is used to generate ray-traced channel profiles that capture b
 
 ## 🔁 The Process (How)
 
-### 📡 Channel Simulation & Data Generation
+### Channel Simulation & Data Generation
 - Built a ray-tracing-based simulation environment using **NVIDIA Sionna**
 - Generated channel impulse and frequency responses across multiple transmitter–receiver locations
 - Verified that simulated propagation behavior aligned with expected physical trends
 
-### 📶 Traditional Receiver Baseline
+### Traditional Receiver Baseline
 - Studied and implemented a classical 5G receiver processing chain
 - Analyzed synchronization, channel estimation, equalization, and decoding stages
 - Defined evaluation metrics such as **BER**, **BLER**, and **throughput** based on 3GPP standards
 
-### 🤖 AI-Native Receiver Design
+### AI-Native Receiver Design
 - Designed an ML-based receiver intended to replace components of the classical decoding pipeline
 - Defined training workflows using digital-twin-generated channel datasets
 - Planned integration with **Keysight Propsim** and **OpenAirInterface** for testbed evaluation
