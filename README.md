@@ -12,7 +12,7 @@ Instead of relying on simplified wireless channel models, we use **physics-based
 
 ---
 
-## 🧠 System Overview
+## System Overview
 ![System Overview](figures/systemblockdiagram.png)
 
 The system is organized as a three-phase pipeline:
