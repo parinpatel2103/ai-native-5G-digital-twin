@@ -57,6 +57,7 @@ This digital twin is used to generate ray-traced channel profiles that capture b
 ### Channel Simulation & Data Generation
 - Built a ray-tracing-based simulation environment using **NVIDIA Sionna**
 - Generated channel impulse and frequency responses across multiple transmitter–receiver locations
+- Channel simulations were generated across multiple transmitter–receiver locations and carrier frequencies to capture environment-dependent fading and multipath behavior
 - Verified that simulated propagation behavior aligned with expected physical trends
 
 ### Traditional Receiver Baseline
