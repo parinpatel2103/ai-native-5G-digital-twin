@@ -36,15 +36,15 @@ This project explores whether **machine-learning-based receivers**, when trained
 
 ## 🛠️ System Design (What)
 The system is designed as an end-to-end evaluation framework that includes:
-- 🏙️ A 3D digital twin of the UT Austin campus  
-- 📡 Physics-based wireless channel simulation  
-- 📊 A traditional 5G receiver baseline  
-- 🤖 An AI-native receiver architecture  
-- 🧪 Hardware-in-the-loop validation using a channel emulator  
+-  A 3D digital twin of the UT Austin campus  
+-  Physics-based wireless channel simulation  
+-  A traditional 5G receiver baseline  
+-  An AI-native receiver architecture  
+-  Hardware-in-the-loop validation using a channel emulator  
 
 ---
 
-## 🏗️ Digital Twin Environment
+## Digital Twin Environment
 ![Digital Twin Buildings](figures/digitaltwin.png)
 
 Campus geometry is imported from OpenStreetMap and LiDAR-derived data to construct a realistic 3D environment.  
@@ -83,12 +83,12 @@ This repository documents the **system design, simulation validation, and risk-r
 ---
 
 ## 🧰 Tools & Technologies
-- ⚡ NVIDIA Sionna (ray tracing & channel modeling)  
-- 🐍 Python  
-- 🧠 Machine learning frameworks (planned)  
-- 📡 OpenAirInterface (5G stack)  
-- 🧪 Keysight Propsim (channel emulation)  
-- 🗺️ OpenStreetMap & LiDAR data  
+- NVIDIA Sionna (ray tracing & channel modeling)  
+-  Python  
+-  Machine learning frameworks (planned)  
+-  OpenAirInterface (5G stack)  
+-  Keysight Propsim (channel emulation)  
+-  OpenStreetMap & LiDAR data  
 
 ---
 
